@@ -1,0 +1,1279 @@
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 160
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (126564 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 526 texinfos to 403
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+1015 portalclusters
+3608 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 28721 visible clusters (0.00%)
+Total clusters visible: 886668
+Average clusters visible: 873
+Building PAS...
+Average clusters audible: 1014
+visdatasize:263319  compressed from 259840
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+2858 faces
+1010309 square feet [145484608.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2858 patches before subdivision
+47488 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3407066, max 778
+transfer lists:  26.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(188542, 71881, 28599)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(45983, 6424, 772)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15353, 689, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6031, 84, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2656, 11, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1271, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(651, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(352, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(198, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(114, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(41, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0194 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                301/8192         3612/98304    ( 3.7%) 
+brushsides            2794/65536       22352/524288   ( 4.3%) 
+planes                2576/65536       51520/1310720  ( 3.9%) 
+vertexes              3873/65536       46476/786432   ( 5.9%) 
+nodes                 1781/65536       56992/2097152  ( 2.7%) 
+texinfos               403/12288       29016/884736   ( 3.3%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2858/65536      160048/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1273/65536       71288/3670016  ( 1.9%) 
+facebrushes            339/0             678/0        ( 0.0%) 
+facebrushlists        2858/0           11432/0        ( 0.0%) 
+leaves                1786/65536       57152/2097152  ( 2.7%) 
+leaffaces             3250/65536        6500/131072   ( 5.0%) 
+leafbrushes            904/65536        1808/131072   ( 1.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18879/512000      75516/2048000  ( 3.7%) 
+edges                10168/256000      40672/1024000  ( 4.0%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            233/32768        2330/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3393/65536        6786/131072   ( 5.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2070256/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      263319/16777216 ( 1.6%) 
+entdata               [variable]        8091/393216   ( 2.1%) 
+LDR ambient table     1786/65536        7144/262144   ( 2.7%) 
+HDR ambient table     1786/65536        7144/262144   ( 2.7%) 
+LDR leaf ambient      9043/65536      253204/1835008  (13.8%) 
+HDR leaf ambient      1786/65536       50008/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2460     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      126564/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 7844
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+18 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 172
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (173340 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 651 texinfos to 505
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+1402 portalclusters
+4936 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 53698 visible clusters (0.00%)
+Total clusters visible: 1631680
+Average clusters visible: 1163
+Building PAS...
+Average clusters audible: 1401
+visdatasize:492965  compressed from 493504
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+3725 faces
+1033105 square feet [148767248.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3725 patches before subdivision
+52217 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4275493, max 887
+transfer lists:  32.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(211461, 82726, 34652)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49702, 7525, 1158)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(16228, 813, 65)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6220, 98, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2716, 13, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1292, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(661, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(356, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(200, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(41, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0167 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                360/8192         4320/98304    ( 4.4%) 
+brushsides            3621/65536       28968/524288   ( 5.5%) 
+planes                3312/65536       66240/1310720  ( 5.1%) 
+vertexes              5379/65536       64548/786432   ( 8.2%) 
+nodes                 2322/65536       74304/2097152  ( 3.5%) 
+texinfos               505/12288       36360/884736   ( 4.1%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3725/65536      208600/3670016  ( 5.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1693/65536       94808/3670016  ( 2.6%) 
+facebrushes            352/0             704/0        ( 0.0%) 
+facebrushlists        3725/0           14900/0        ( 0.0%) 
+leaves                2327/65536       74464/2097152  ( 3.6%) 
+leaffaces             4270/65536        8540/131072   ( 6.5%) 
+leafbrushes           1069/65536        2138/131072   ( 1.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            25323/512000     101292/2048000  ( 4.9%) 
+edges                13672/256000      54688/1024000  ( 5.3%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            301/32768        3010/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4551/65536        9102/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2267208/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      492965/16777216 ( 2.9%) 
+entdata               [variable]        8091/393216   ( 2.1%) 
+LDR ambient table     2327/65536        9308/262144   ( 3.6%) 
+HDR ambient table     2327/65536        9308/262144   ( 3.6%) 
+LDR leaf ambient     10610/65536      297080/1835008  (16.2%) 
+HDR leaf ambient      2327/65536       65156/1835008  ( 3.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2760     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      173340/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 10414
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+24 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 186
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (216404 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 764 texinfos to 577
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+1738 portalclusters
+6082 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105982 visible clusters (0.00%)
+Total clusters visible: 2493294
+Average clusters visible: 1434
+Building PAS...
+Average clusters audible: 1737
+visdatasize:748806  compressed from 778624
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+4535 faces
+1066517 square feet [153578544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4535 patches before subdivision
+57309 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5221845, max 1079
+transfer lists:  39.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(210717, 85077, 38444)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(49196, 7803, 1464)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15666, 835, 87)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5860, 100, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2523, 13, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1193, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(618, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(339, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(196, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(44, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0240 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                427/8192         5124/98304    ( 5.2%) 
+brushsides            4392/65536       35136/524288   ( 6.7%) 
+planes                3808/65536       76160/1310720  ( 5.8%) 
+vertexes              6772/65536       81264/786432   (10.3%) 
+nodes                 2823/65536       90336/2097152  ( 4.3%) 
+texinfos               577/12288       41544/884736   ( 4.7%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4535/65536      253960/3670016  ( 6.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2040/65536      114240/3670016  ( 3.1%) 
+facebrushes            477/0             954/0        ( 0.0%) 
+facebrushlists        4535/0           18140/0        ( 0.0%) 
+leaves                2828/65536       90496/2097152  ( 4.3%) 
+leaffaces             5269/65536       10538/131072   ( 8.0%) 
+leafbrushes           1336/65536        2672/131072   ( 2.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            31148/512000     124592/2048000  ( 6.1%) 
+edges                16780/256000      67120/1024000  ( 6.6%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            359/32768        3590/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5559/65536       11118/131072   ( 8.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2533824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      748806/16777216 ( 4.5%) 
+entdata               [variable]        8092/393216   ( 2.1%) 
+LDR ambient table     2828/65536       11312/262144   ( 4.3%) 
+HDR ambient table     2828/65536       11312/262144   ( 4.3%) 
+LDR leaf ambient     11682/65536      327096/1835008  (17.8%) 
+HDR leaf ambient      2828/65536       79184/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2766     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      216404/4194304  ( 5.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 12870
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+29 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 196
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (284500 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 957 texinfos to 729
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+2129 portalclusters
+7579 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 208207 visible clusters (0.00%)
+Total clusters visible: 3628278
+Average clusters visible: 1704
+Building PAS...
+Average clusters audible: 2127
+visdatasize:1109046  compressed from 1158176
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+5575 faces
+7 degenerate faces
+1127072 square feet [162298448.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5568 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+69042 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10238468, max 1133
+transfer lists:  78.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(254035, 110998, 56342)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(67306, 11958, 3134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21210, 1377, 233)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7737, 186, 27)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3119, 25, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1375, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(665, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(345, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(191, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(40, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0215 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                603/8192         7236/98304    ( 7.4%) 
+brushsides            7228/65536       57824/524288   (11.0%) 
+planes                6906/65536      138120/1310720  (10.5%) 
+vertexes              8310/65536       99720/786432   (12.7%) 
+nodes                 3695/65536      118240/2097152  ( 5.6%) 
+texinfos               729/12288       52488/884736   ( 5.9%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5575/65536      312200/3670016  ( 8.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2466/65536      138096/3670016  ( 3.8%) 
+facebrushes            532/0            1064/0        ( 0.0%) 
+facebrushlists        5575/0           22300/0        ( 0.0%) 
+leaves                3700/65536      118400/2097152  ( 5.6%) 
+leaffaces             6426/65536       12852/131072   ( 9.8%) 
+leafbrushes           2261/65536        4522/131072   ( 3.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            38267/512000     153068/2048000  ( 7.5%) 
+edges                20612/256000      82448/1024000  ( 8.1%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/32768        5590/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8862/65536       17724/131072   (13.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3171196/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1109046/16777216 ( 6.6%) 
+entdata               [variable]        8093/393216   ( 2.1%) 
+LDR ambient table     3700/65536       14800/262144   ( 5.6%) 
+HDR ambient table     3700/65536       14800/262144   ( 5.6%) 
+LDR leaf ambient     16168/65536      452704/1835008  (24.7%) 
+HDR leaf ambient      3700/65536      103600/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2776     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      284500/4194304  ( 6.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 16207
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+43 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 206
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1126.1 1024.0 1018.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 18264: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (287212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 970 texinfos to 734
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+2182 portalclusters
+7781 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 239627 visible clusters (0.00%)
+Total clusters visible: 3822922
+Average clusters visible: 1752
+Building PAS...
+Average clusters audible: 2180
+visdatasize:1162910  compressed from 1221920
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+5713 faces
+8 degenerate faces
+1122711 square feet [161670416.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5705 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+68965 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10667949, max 1154
+transfer lists:  81.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0223 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                610/8192         7320/98304    ( 7.4%) 
+brushsides            7289/65536       58312/524288   (11.1%) 
+planes                6976/65536      139520/1310720  (10.6%) 
+vertexes              8548/65536      102576/786432   (13.0%) 
+nodes                 3831/65536      122592/2097152  ( 5.8%) 
+texinfos               734/12288       52848/884736   ( 6.0%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5713/65536      319928/3670016  ( 8.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2482/65536      138992/3670016  ( 3.8%) 
+facebrushes            559/0            1118/0        ( 0.0%) 
+facebrushlists        5713/0           22852/0        ( 0.0%) 
+leaves                3836/65536      122752/2097152  ( 5.9%) 
+leaffaces             6552/65536       13104/131072   (10.0%) 
+leafbrushes           2424/65536        4848/131072   ( 3.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39075/512000     156300/2048000  ( 7.6%) 
+edges                21050/256000      84200/1024000  ( 8.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            564/32768        5640/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9048/65536       18096/131072   (13.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3173220/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1162910/16777216 ( 6.9%) 
+entdata               [variable]        8093/393216   ( 2.1%) 
+LDR ambient table     3836/65536       15344/262144   ( 5.9%) 
+HDR ambient table     3836/65536       15344/262144   ( 5.9%) 
+LDR leaf ambient     16297/65536      456316/1835008  (24.9%) 
+HDR leaf ambient      3836/65536      107408/1835008  ( 5.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2780     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      287212/4194304  ( 6.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 16674
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+49 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 206
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1126.1 1024.0 1018.6)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 18264: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (287212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 970 texinfos to 734
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+2182 portalclusters
+7781 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 239627 visible clusters (0.00%)
+Total clusters visible: 3822922
+Average clusters visible: 1752
+Building PAS...
+Average clusters audible: 2180
+visdatasize:1162910  compressed from 1221920
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+5713 faces
+8 degenerate faces
+1122711 square feet [161670416.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5705 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+68965 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10667949, max 1154
+transfer lists:  81.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0239 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                610/8192         7320/98304    ( 7.4%) 
+brushsides            7289/65536       58312/524288   (11.1%) 
+planes                6976/65536      139520/1310720  (10.6%) 
+vertexes              8548/65536      102576/786432   (13.0%) 
+nodes                 3831/65536      122592/2097152  ( 5.8%) 
+texinfos               734/12288       52848/884736   ( 6.0%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5713/65536      319928/3670016  ( 8.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2482/65536      138992/3670016  ( 3.8%) 
+facebrushes            559/0            1118/0        ( 0.0%) 
+facebrushlists        5713/0           22852/0        ( 0.0%) 
+leaves                3836/65536      122752/2097152  ( 5.9%) 
+leaffaces             6552/65536       13104/131072   (10.0%) 
+leafbrushes           2424/65536        4848/131072   ( 3.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39075/512000     156300/2048000  ( 7.6%) 
+edges                21050/256000      84200/1024000  ( 8.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            564/32768        5640/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9048/65536       18096/131072   (13.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3173220/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1162910/16777216 ( 6.9%) 
+entdata               [variable]        8093/393216   ( 2.1%) 
+LDR ambient table     3836/65536       15344/262144   ( 5.9%) 
+HDR ambient table     3836/65536       15344/262144   ( 5.9%) 
+LDR leaf ambient     16297/65536      456316/1835008  (24.9%) 
+HDR leaf ambient      3836/65536      107408/1835008  ( 5.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2780     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      287212/4194304  ( 6.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 16674
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+52 seconds elapsed
+
+
+
+materialPath: F:\Program Files\Steam\steamapps\common\dayofinfamy\doi\materials
+Loading F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.vmf
+Map revision 207
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (287212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 970 texinfos to 734
+Reduced 7 texdatas to 7 (160 bytes to 160)
+Writing F:\Program Files\Steam\steamapps\common\dayofinfamy\sdk_content\maps\grandCentral\doi_GrandCentral.bsp
+1 second elapsed
+
+
+
+4 threads
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+reading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.prt
+2192 portalclusters
+7873 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 220981 visible clusters (0.00%)
+Total clusters visible: 3930549
+Average clusters visible: 1793
+Building PAS...
+Average clusters audible: 2191
+visdatasize:1181048  compressed from 1227520
+writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[4 texlights parsed from 'lights.rad']
+
+Loading f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+5761 faces
+6 degenerate faces
+1165804 square feet [167875840.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5755 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+70219 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10615470, max 1168
+transfer lists:  81.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(248796, 108491, 54974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64786, 11109, 2630)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20586, 1279, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7508, 163, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3035, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1337, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(647, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(336, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(186, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(108, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(65, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0254 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                610/8192         7320/98304    ( 7.4%) 
+brushsides            7289/65536       58312/524288   (11.1%) 
+planes                6976/65536      139520/1310720  (10.6%) 
+vertexes              8569/65536      102828/786432   (13.1%) 
+nodes                 3782/65536      121024/2097152  ( 5.8%) 
+texinfos               734/12288       52848/884736   ( 6.0%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5761/65536      322616/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2510/65536      140560/3670016  ( 3.8%) 
+facebrushes            546/0            1092/0        ( 0.0%) 
+facebrushlists        5761/0           23044/0        ( 0.0%) 
+leaves                3787/65536      121184/2097152  ( 5.8%) 
+leaffaces             6622/65536       13244/131072   (10.1%) 
+leafbrushes           2446/65536        4892/131072   ( 3.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39275/512000     157100/2048000  ( 7.7%) 
+edges                21125/256000      84500/1024000  ( 8.3%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/32768        5590/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8694/65536       17388/131072   (13.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3254472/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1181048/16777216 ( 7.0%) 
+entdata               [variable]        8093/393216   ( 2.1%) 
+LDR ambient table     3787/65536       15148/262144   ( 5.8%) 
+HDR ambient table     3787/65536       15148/262144   ( 5.8%) 
+LDR leaf ambient     16911/65536      473508/1835008  (25.8%) 
+HDR leaf ambient      3787/65536      106036/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2780     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      287212/4194304  ( 6.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 4
+
+Total triangle count: 16664
+Writing f:\program files\steam\steamapps\common\dayofinfamy\sdk_content\maps\grandcentral\doi_GrandCentral.bsp
+48 seconds elapsed
