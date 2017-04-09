@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7446"
-	"mapversion" "44"
+	"mapversion" "49"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "44"
+	"mapversion" "49"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -5063,6 +5063,114 @@ world
 }
 entity
 {
+	"id" "3687"
+	"classname" "trigger_capture_zone"
+	"controlpoint" "cp_b"
+	"origin" "1728 -115.84 0"
+	"spawnflags" "4097"
+	"StartDisabled" "0"
+	"targetname" "cz_b"
+	solid
+	{
+		"id" "3688"
+		side
+		{
+			"id" "3436"
+			"plane" "(1472 -355.839 64) (1472 124.161 64) (1984 124.161 64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[1 0 0 -0.00268555] 0.25"
+			"vaxis" "[0 -1 0 -15.352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3435"
+			"plane" "(1472 124.161 -64) (1472 -355.839 -64) (1984 -355.839 -64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[1 0 0 -0.00268555] 0.25"
+			"vaxis" "[0 -1 0 -15.352] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3434"
+			"plane" "(1472 -355.839 -64) (1472 124.161 -64) (1472 124.161 64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[0 1 0 15.352] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3433"
+			"plane" "(1984 124.161 -64) (1984 -355.839 -64) (1984 -355.839 64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[0 1 0 15.352] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3432"
+			"plane" "(1472 124.161 -64) (1984 124.161 -64) (1984 124.161 64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[1 0 0 -0.00268555] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "3431"
+			"plane" "(1984 -355.839 -64) (1472 -355.839 -64) (1472 -355.839 64)"
+			"material" "TOOLS/TOOLSTRIGGER_CAPTURE"
+			"uaxis" "[1 0 0 -0.00268555] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "3690"
+	"classname" "point_controlpoint"
+	"default_owner" "0"
+	"targetname" "cp_b"
+	"origin" "1728 -115.839 80"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
 	"id" "3370"
 	"classname" "ins_spawnpoint"
 	"angles" "0 0 0"
@@ -5076,7 +5184,7 @@ entity
 	"skin" "0"
 	"SquadID" "-1"
 	"StartDisabled" "0"
-	"TeamNum" "2"
+	"TeamNum" "3"
 	"origin" "-20.8521 62.7719 225"
 	editor
 	{
@@ -5097,9 +5205,9 @@ entity
 	"rendermode" "0"
 	"spawnflags" "2"
 	"SquadID" "-1"
-	"StartDisabled" "1"
+	"StartDisabled" "0"
 	"targetname" "spawnzone_offensive_a"
-	"TeamNum" "2"
+	"TeamNum" "3"
 	solid
 	{
 		"id" "3389"
@@ -5195,9 +5303,9 @@ entity
 	"rendermode" "0"
 	"spawnflags" "2"
 	"SquadID" "-1"
-	"StartDisabled" "1"
+	"StartDisabled" "0"
 	"targetname" "spawnzone_offensive_a"
-	"TeamNum" "3"
+	"TeamNum" "2"
 	solid
 	{
 		"id" "3414"
@@ -5297,7 +5405,7 @@ entity
 	"skin" "0"
 	"SquadID" "-1"
 	"StartDisabled" "0"
-	"TeamNum" "3"
+	"TeamNum" "2"
 	"origin" "1092.85 33.2281 -79"
 	editor
 	{
@@ -5317,8 +5425,8 @@ entity
 	"_light" "249 211 100 200"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "-349 136 0"
-	"pitch" "-349"
+	"angles" "-336 46 0"
+	"pitch" "-336"
 	"SpecularColor" "255 255 255"
 	"SunSpreadAngle" "5"
 	"origin" "607.406 -199.826 -79"
